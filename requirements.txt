@@ -1,0 +1,8 @@
+flet==0.26.0
+numpy==2.2.5
+opencv-python==4.11.0.86
+phonenumbers==8.13.39
+Pillow==11.2.1
+pymupdf==1.25.5
+pyzbar==0.1.9
+tqdm==4.66.6
