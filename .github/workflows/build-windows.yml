@@ -27,7 +27,7 @@ jobs:
         pip install flet
 
     - name: Build Windows EXE
-      run: flet build windows
+      run: flet build windows --module-name gui
       env:
         PYTHONIOENCODING: utf-8
 
